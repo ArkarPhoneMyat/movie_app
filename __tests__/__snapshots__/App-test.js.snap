@@ -1,0 +1,612 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App testing renderer 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          WOOKIE
+        </Text>
+        <Text
+          style={
+            Object {
+              "fontSize": 30,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          MOVIES
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "marginBottom": 10,
+            "marginTop": 20,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Action
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Adventure
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Animation
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Biography
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Crime
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Drama
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Family
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            History
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Mystery
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Romance
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Sci-Fi
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            Thriller
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+        <View
+          style={
+            Object {
+              "height": 250,
+              "marginVertical": 10,
+              "width": "100%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 22,
+                "marginLeft": 10,
+              }
+            }
+          >
+            War
+          </Text>
+          <RCTScrollView
+            data={Array []}
+            getItem={[Function]}
+            getItemCount={[Function]}
+            horizontal={true}
+            keyExtractor={[Function]}
+            onContentSizeChange={[Function]}
+            onLayout={[Function]}
+            onMomentumScrollBegin={[Function]}
+            onMomentumScrollEnd={[Function]}
+            onScroll={[Function]}
+            onScrollBeginDrag={[Function]}
+            onScrollEndDrag={[Function]}
+            removeClippedSubviews={false}
+            renderItem={[Function]}
+            scrollEventThrottle={50}
+            showsHorizontalScrollIndicator={false}
+            stickyHeaderIndices={Array []}
+            viewabilityConfigCallbackPairs={Array []}
+          >
+            <View />
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
